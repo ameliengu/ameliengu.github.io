@@ -1,6 +1,7 @@
 h1 {
-    font-size: 3em;
+    font-size: 5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: rgb(185, 189, 193)
 }
 p {
     font-size: 1.5em;
